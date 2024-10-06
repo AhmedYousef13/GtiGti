@@ -13,5 +13,7 @@ namespace GtiGti
         public string Name { get; set; }
 
         public double Salary { get; set; }
+        public int MyProperty { get; set; }
+        public int MyProperty1 { get; set; }
     }
 }
