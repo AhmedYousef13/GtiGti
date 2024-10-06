@@ -13,7 +13,5 @@ namespace GtiGti
         public string Name { get; set; }
 
         public double Salary { get; set; }
-
-        public string Publisher { get; set; }
     }
 }
